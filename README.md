@@ -1,2 +1,10 @@
 # Sistema-de-cadastro
-Repositório feito para aprendizado sobre Git junto à Alura.
+
+> Status do projeto: Em desenvolvimento
+
+Para rodar esse projeto em sua máquina, por favor digite: 
+
+```
+ node app.js
+
+```
